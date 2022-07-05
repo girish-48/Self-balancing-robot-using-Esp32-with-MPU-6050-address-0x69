@@ -1,7 +1,7 @@
 # Self-balancing-robot-using-Esp32-with-MPU-6050-address-0x69
 this repository is about my course project ( making a mini segway )
 
-There are only two libraries required for this project, wire.h and MPU6050_light by tockn
+There are only two libraries required for this project, wire.h and MPU6050_light by tockn\
 which can be downloaded from the arduino library manager 
 
 Also if you are using a mpu 6050 with its slave address as 0x69 \
